@@ -7724,8 +7724,8 @@ End launch SMA connector. The paste layer has been removed so that the connector
 <part name="P+6" library="freetronics-original" deviceset="3.3V" device=""/>
 <part name="P+7" library="freetronics-original" deviceset="3.3V" device=""/>
 <part name="GND7" library="freetronics-original" deviceset="GND" device=""/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="4.7k"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0805" value="4.7k"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="2k"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0805" value="2k"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0805K" value="4.7u"/>

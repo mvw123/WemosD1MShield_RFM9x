@@ -1,7 +1,7 @@
 Wemos D1 Mini shield for RFM95 Lora
 ===================================
 
-WORK IN PROGRESS
+NOT COMPLETE - WORK HALTED
 
 Lora shield for Wemos D1 mini
 Used for a 1 channel lora gateway.
