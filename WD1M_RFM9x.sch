@@ -7736,7 +7736,7 @@ End launch SMA connector. The paste layer has been removed so that the connector
 <part name="P+2" library="freetronics-original" deviceset="3.3V" device=""/>
 <part name="D3" library="adafruit" deviceset="DIODE" device="SOD-323F"/>
 <part name="D1" library="adafruit" deviceset="DIODE" device="SOD-323F"/>
-<part name="D2" library="adafruit" deviceset="DIODE" device="SOD-323F"/>
+<part name="D2" library="adafruit" deviceset="DIODE" device="SOD-323F" value="NOFIT"/>
 <part name="D4" library="SparkFun-LED" deviceset="WS2812B" device=""/>
 <part name="D5" library="SparkFun-LED" deviceset="WS2812B" device=""/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="SMD-1101NE"/>
@@ -7776,6 +7776,9 @@ D8: 10k pulldown on D1 Mini</text>
 <text x="7.62" y="20.32" size="1.778" layer="97">For full D1 Mini specs see http://www.wemos.cc/Products/d1_mini.html</text>
 <text x="101.6" y="71.12" size="1.778" layer="91">RST active low same as ESP8266</text>
 <text x="25.4" y="170.18" size="1.778" layer="91">USING 0805 FOR EASE OF SELF BUILD</text>
+<text x="119.38" y="55.88" size="1.778" layer="91">D2 MAY NEED TO BE NO FIT 
+DUE TO DIO2 BEING HIGH 
+AT BOOTUP.</text>
 </plain>
 <instances>
 <instance part="H1" gate="G$1" x="34.29" y="104.14" rot="MR180"/>

@@ -1901,7 +1901,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="JP2" library="pinhead" package="1X04" value="" x="12.954" y="2.286"/>
 <element name="D3" library="adafruit" package="SOD-323F" value="" x="9.906" y="9.906" rot="R90"/>
 <element name="D1" library="adafruit" package="SOD-323F" value="" x="7.874" y="9.906" rot="R90"/>
-<element name="D2" library="adafruit" package="SOD-323F" value="" x="5.842" y="9.906" rot="R90"/>
+<element name="D2" library="adafruit" package="SOD-323F" value="NOFIT" x="5.842" y="9.906" rot="R90"/>
 <element name="D4" library="SparkFun-LED" package="WS2812B" value="" x="7.62" y="22.86" rot="R90"/>
 <element name="D5" library="SparkFun-LED" package="WS2812B" value="" x="18.034" y="22.86" rot="R90"/>
 <element name="S1" library="SparkFun-Electromechanical" package="TACTILE-SWITCH-1101NE" value="SWITCH-MOMENTARY-2SMD-1101NE" x="12.954" y="22.606" rot="R90">
